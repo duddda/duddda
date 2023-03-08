@@ -25,3 +25,7 @@
  
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duddda&theme=radical&langs_count=8&layout=compact" /></div>
 </div>
+
+##
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
